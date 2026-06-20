@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/hello_app": true,
+    "**/toy_app": true,
+    "**/hello_app/**": true,
+    "**/toy_app/**": true,
+    "README.md": true
+  },
+  "search.exclude": {
+    "**/hello_app": true,
+    "**/toy_app": true,
+    "**/hello_app/**": true,
+    "**/toy_app/**": true,
+    "README.md": true
+  }
+}
