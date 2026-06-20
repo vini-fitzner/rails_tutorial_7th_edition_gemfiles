@@ -5,8 +5,8 @@ Repository for my local projects and dependency notes while following Ruby on Ra
 ## Apps
 
 - `hello_app`
-- `toy_app` - to be added
-- `sample_app` - to be added
+- `toy_app`
+- `sample_app`
 
 ## Notes
 
