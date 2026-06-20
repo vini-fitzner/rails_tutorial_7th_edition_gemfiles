@@ -1,4 +1,13 @@
 {
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+
+  "[ruby]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  },
+
   "files.exclude": {
     "**/hello_app": true,
     "**/toy_app": true,
@@ -6,6 +15,7 @@
     "**/toy_app/**": true,
     "README.md": true
   },
+
   "search.exclude": {
     "**/hello_app": true,
     "**/toy_app": true,
